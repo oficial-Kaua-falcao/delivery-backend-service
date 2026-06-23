@@ -1,0 +1,12 @@
+# Ambiente Virtual (Python)
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Banco de dados local (SQLite)
+banco.db
+
+# Configurações locais secretas (JWT, chaves, senhas)
+.env
